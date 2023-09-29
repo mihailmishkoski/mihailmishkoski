@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihail</h1>
-<h3 align="center">I am a passionate second-year computer science student from Macedonia, with a keen interest in software development and problem-solving. My journey in the world of technology began when I was introduced to programming during my early years of study, and since then, I have been captivated by the endless possibilities it offers.</h3>
+<h3 align="center">I am a passionate thirth-year computer science student from Macedonia, with a keen interest in software development and problem-solving. My journey in the world of technology began when I was introduced to programming during my early years of study, and since then, I have been captivated by the endless possibilities it offers.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
